@@ -1,0 +1,19 @@
+git config --globel user.email "rakesh@gmail.com"
+git config --globel user.name "rakesh"
+
+public key 
+ssh-keygen -t rsa -b 4969 -c "rakesh@gmail.com"
+
+(~/ssh/id_rsa)
+to get the key
+cat publickey link
+
+eval"$(ssh-agent -s)"
+ssh.add~/ssh/id-rsa
+git remote set-url origin "ssh link"
+init 
+id_ed25519.pub
+
+cat ~/.ssh/id_ed25519.
+pubssh-keygen -c -f ~/.ssh/id_ed25519 -C "Rakesh9328@gmail.com"
+

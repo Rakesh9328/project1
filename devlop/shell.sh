@@ -14,3 +14,4 @@ elif [ -s "fname" ]; then
 	echo " the file is exist along with content"
 else
 	echo "you have iput wrong file type"
+if []

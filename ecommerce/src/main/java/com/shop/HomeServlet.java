@@ -1,6 +1,6 @@
 package com.shop;
 
-impor java.io.IOException;
+import java.io.IOException;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
